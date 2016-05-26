@@ -68,7 +68,7 @@ public class PreduzeceController {
 		return "preduzeca";
 	}
 	
-	/*
+	/* dodatni komentar
 	 * metoda za pretragu preduzeca na view "preduzeca"
 	 */
 	

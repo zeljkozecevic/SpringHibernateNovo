@@ -64,7 +64,7 @@ public class VoziloController {
 		
 		serviceVozilo.saveVozilo(vozilo);
 		serviceEnergent.sacuvajEnergent(en);
-		
+//		Evo i komentara		
 			
 //		servicePreduzece.updatePreduzece(preduzece);
 		
