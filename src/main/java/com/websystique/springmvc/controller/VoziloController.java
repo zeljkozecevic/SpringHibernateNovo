@@ -57,6 +57,9 @@ public class VoziloController {
 		vozilo.getEnergenti().add(en);
 		en.getVozila().add(vozilo);
 		
+		// e pa stvarno
+		
+		
 //		serviceVozilo.saveVozilo(vozilo);
 		
 //		preduzece.getVozila().add(vozilo);
